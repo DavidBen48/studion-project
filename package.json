@@ -1,0 +1,14 @@
+{
+  "name": "studio_on",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scr/index.html",
+  "scripts": {
+    "start": "npx live-server src/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "1.2.2"
+  }
+}
